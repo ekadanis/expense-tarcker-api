@@ -75,7 +75,3 @@ npm run start:dev
 - Gunakan Swagger (jika dikonfigurasi di aplikasi) untuk dokumentasi interaktif.
 - Pastikan `JWT_SECRET` dan koneksi database di `.env` sudah benar.
 - Endpoint `/stats` bersifat opsional tergantung implementasi; bisa berisi ringkasan pengeluaran per kategori atau total pengeluaran untuk periode tertentu.
-
----
-
-Dokumentasi ini dibuat otomatis dari input yang Anda berikan. Ingin saya juga membuat file terpisah per model (`docs/categories.md`, `docs/expenses.md`, `docs/auth.md`, `docs/stats.md`)?
